@@ -1,0 +1,13 @@
+.opleiding-info{
+    padding:0;
+    margin:0;
+    background:grey;
+}
+.opleiding-info  p{
+    padding: 3px;
+    margin: 2px;
+}
+.opleiding-info  p :hover{
+    background: hsl(0, 0%, 25%);
+}
+

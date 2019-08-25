@@ -1,0 +1,39 @@
+.form-box h2{
+   
+    padding: 50px 500px;
+    font-size: 40px;
+   
+}
+
+.form-box{
+    margin-top: 30px;
+}
+
+.input-group input{
+width: 45%;
+
+border: 0;
+outline: none;
+padding: 25px;
+margin: 2%;
+display: inline-block;
+background: #fff;
+}
+
+.text-area textarea{
+    width: 30%;
+    border: 0;
+    outline: none;
+    padding: 20px;
+    margin: 2%;
+   display: inline-block;
+    background: #fff;
+    
+}
+.submit-btn{
+    padding: 10px;
+    margin: 2%;
+    background-color:  	#DEB887;
+    color:DodgerBlue ;
+    cursor: pointer;
+}

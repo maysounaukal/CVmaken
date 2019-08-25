@@ -1,0 +1,48 @@
+.Header{
+    background-image: url("images/background.jpg");
+    height: 80%;
+    width: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #efefef;
+    margin: 2em 1em;
+    padding: 0.2em 0.5em;
+    
+}
+.Header h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 70px;
+    word-spacing: 14px;
+}
+.Header p{
+    font-weight: lighter;
+    padding: 1em 1em;
+    float: left;
+    width: 29%;
+    font-size: 19px;
+}
+
+.put a{
+    margin-top: 3em ;
+    margin-left: 28em;
+  
+    background-color:  	#DEB887;
+    border-radius: 15px;
+    transition: width 2s , height 4s;
+  transform-style: flat;
+  width: 30%;
+   font-size: 50px;
+   /* -webkit-transition: width 2s;*/
+   /* transition: width 2s ,height 2s, transform 2s;*/
+  text-decoration: none;
+  padding : 10px;
+    margin: 10px;
+    position: fixed;
+ width:100px;
+}
+ 
+.put:hover {
+    width: 500px;
+    height: 500;
+}

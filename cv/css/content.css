@@ -1,0 +1,42 @@
+.content{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 18px;
+    grid-gap: 15px;
+    
+}
+.content> div{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px 3px;
+border-radius: 14px;
+    
+}
+h2{
+    text-align: center;
+ 
+     color: hsl(210, 100%, 50%);
+}
+.Personila{
+    grid-area: 1 /1 /4/2;
+ 
+   
+   
+}
+.opleiding{
+   grid-area: 1 / 2 / 2 / 7;
+   
+}
+
+.talen{
+    grid-area: 2/ 7 /3/ 8;
+}
+.kennis{
+    grid-area: 1 / 7 / 2 / 8;
+}
+.varia{
+    grid-area: 2/2/3/7;
+}
+
+.hobby{
+    grid-area: 3 / 2 / 4 / 8;
+}

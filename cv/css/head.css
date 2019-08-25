@@ -1,0 +1,55 @@
+
+*body{
+    
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.site{
+   
+     padding: 0px;
+     margin: 0px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 18px;
+
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    line-height: 1.5;
+}
+
+.header{
+ margin: 0px;
+}
+.naam{
+  padding: 3em;
+    margin: 4em;
+   float: right;
+}
+
+h1{
+  text-align: center;
+    font-size: 80px;
+    margin: 0;
+}
+h1 :hover{
+    color:	hsl(0, 0%, 50%);
+}
+
+.photo{
+  
+padding: 3em;
+margin: 1em 1em 1em 1em;
+width: 40%;
+}
+
+.header img {
+    float: center;
+    width: 200px;
+    border-radius: 200px;
+    border: 5px dotted	hsl(0, 0%, 50%);
+    margin: 0em 1em;
+   outline: 1em solid	hsl(0, 0%, 50%);
+}
+

@@ -1,0 +1,28 @@
+
+
+@media only screen and (max-width: 900px){
+    .profile-info{
+        width: auto;
+       overflow: inherit;
+    }
+    .profile-img{
+        width: auto;
+        text-align: center;
+    }
+    .Expertise{
+        width: auto;
+    }
+   
+    .Expertise img{
+        height: 8%;
+        margin: 10px;
+
+    }
+    .projects img{
+        width: 45%;
+    }
+    .contact span{
+        width: 20px;
+    }
+    
+}

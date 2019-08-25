@@ -1,0 +1,38 @@
+.Content{
+    margin-top: 2em;
+}
+.Content h2{
+    padding:0 500px ;
+    padding-bottom: 50px;
+    font-size: 50px;
+}
+
+.Expertise img{
+    width: 90px;
+    height: 60px;
+    margin: 5px;
+}
+
+.Expertise{
+   display:inline-block;
+    width: 28%;
+    padding: 30px 10px;
+    margin: 2%;
+    text-align: center;
+    box-shadow: 0 0 15px 1px rgba(37, 37,214,0.18);
+ 
+    background: #fff;
+    border-radius: 10px;
+}
+.Expertise small{
+padding-top: 10px;
+display: block;
+text-align: justify;
+word-spacing: 0.5px;
+}
+.projects img{
+width: 31%;
+padding: 40px;
+margin-bottom: 5px;
+margin-left: 5px;
+}
